@@ -4,7 +4,7 @@
 package com.mit.gradle;
 
 public class Library {
-    public boolean someLibraryMethod() {
+    public boolean someLibraryMethod(f) {
         return true;
     }
 }
